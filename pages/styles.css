@@ -11,7 +11,7 @@ body {
     place-content: center flex-start;
     align-items: center;
     background-color: rgb(0, 0, 0);
-    background: linear-gradient(rgba(0, 0, 0, 0.91), rgba(0, 0, 0, 0.7)), url(../assets/pexels-ave-calvar-martinez-4297438.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.91), rgba(0, 0, 0, 0.7));
     background-size: cover;
     flex-flow: column nowrap;
     gap: 10px;
